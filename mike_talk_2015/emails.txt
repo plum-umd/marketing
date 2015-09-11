@@ -1,0 +1,17 @@
+local alumni:
+
+<Chris Hayden> chayden@gmail.com,
+<Mikk Furr> furr@cs.umd.edu,
+<Nick Petroni> npetroni@petroni.com,
+<Stephen Magill> stephen.magill@gmail.com,
+<Brian Corcoran> corcorb@gmail.com,
+<Nate Parsons> parsons.nate@gmail.com,
+
+mailing lists:
+pl-status@cs.umd.edu
+pl-reading@cs.umd.edu
+mc2-announce@???
+mc2-*
+
+dc security group?
+mike mentions "ACES students"
