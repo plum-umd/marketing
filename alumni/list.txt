@@ -1,0 +1,113 @@
+now = Sep 10, 2015
+
+### Local
+
+Chris Hayden (phd, 2012)
+  now at Trove, DC
+  chayden@gmail.com
+  @chrishayden
+Mikk Furr (phd, 2009)
+  now at Amazon, Herndon, VA
+  ? furr@cs.umd.edu
+Nick Petroni (phd, 2007)
+  npetroni@petroni.com
+  ? npetroni@cs.umd.edu
+Stephen Magill (postdoc, 2010-2011)
+  now at Galois, DC
+  stephen.magill@gmail.com
+  stephen@galois.com
+Brian Corcoran (ms, 2009)
+  now at Opower, Arlington, VA
+  corcorb@gmail.com
+  ? bjc@cs.umd.edu
+Nate Parsons (ms)
+  now at JHU APL, MD
+  parsons.nate@gmail.com
+John Toman (ugrad, 1995?)
+  now at Acelo Solutions, DC
+
+### Non-Local
+
+Justin McCann (phd, 2012)
+  now at Avere Systems, Pittsburgh
+  ? jmccann@cs.umd.edu
+Nat (Nathaniel) Ayewah (phd, 2010)
+  now at Microsoft, Seattle
+Yit Phang Khoo (phd, 2013)
+  now at Mathworks, Boston
+  ? khooyp@cs.umd.edu
+Kin-Keung (Martin) Ma (phd, 2011)
+  now at Google, CA
+  ? kkma@cs.umd.edu
+Luis Pina (visitor, 20xx-2015)
+  now at Imperial College, London
+  luis@luispina.me
+Iulian Neamtiu (phd, 2008)
+  now at UC Riverside, CA
+  neamtiu@cs.ucr.edu
+Pavlos Papageorgiou (phd, 20xx)
+  now at Google, Boston
+  ppavlos@gmail.com
+Dave Hovemeyer (phd, 2005)
+  now at York College, PA
+  dhovemey@ycp.edu
+Polyvios Pratikakis (phd, 2008)
+  wow at FORTH, Greece
+  polyvios@ics.forth.gr
+Saurabh Srivastava (phd, 20xx)
+  now at his startup in Cali
+  saurabh@20n.com
+Nikhil Swamy (phd, 20XX)
+  now at MSR, Seattle
+  nswamy@microsoft.com
+David An (ms, 2010)
+  Now at LeadPages, MN
+  rockalizer@gmail.com
+Mark Daly (ms)
+  now somewhere in CA
+  mark.t.daly@gmail.com
+Elnatan Reisner (ms)
+  now at Janestreet, NYC
+  ereisner@janestreet.com
+Rebecca MacKenzie (NEU internship 2014)
+  now back at NEU, Boston
+Ted Smith (undergrad, 2013)
+  now at UMass, Amherst
+  teddks@gmail.com
+Evan Chang (postdoc)
+  now at UColorado, CO
+  bec@cs.colorado.edu
+Avik Chaudhui (postdoc)
+  now at Facebook, CA
+  avik@fb.com
+Nataliya Guts (postdoc, 2011-2012)
+  nyuguts@gmail.com
+Stevie Strickland (postdoc)
+  now at BrownU, RI
+  sstrickl@gmail.com
+Manuel Oriol (postdoc)
+  now at University of York, UK
+  manuel.oriol@gmail.com
+Adam Fuchs (ms, 20??)
+  now at Sqrrl, Boston
+  ? afuchs@cs.umd.edu
+Jonathan Turpie (ms, 2011)
+  now at Amazon, Seattle
+  ? yudi@cs.umd.edu
+Jaime Spacco (phd, 2006)
+  now at Knox College, IL
+  jspacco@​knox.edu
+Jeremy Manson (phd, 2004)
+  now at Google, CA
+Jeff Meister (ugrad, 2008)
+  now at Esper, CA
+Benjamin Kirzhner (ugrad, 2009)
+  now at Moz, Seattle
+  ? bkirz@cs.umd.edu
+
+### Unsure if local
+  
+David Greenfieldboyce (ms)
+  ? dgreenf@cs.umd.edu
+Nick Kuilema (ms)
+  ?
