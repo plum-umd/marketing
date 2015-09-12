@@ -1,17 +1,25 @@
+I cannot find mailing list for "ACES students"
+
 local alumni:
 
-<Chris Hayden> chayden@gmail.com,
-<Mikk Furr> furr@cs.umd.edu,
-<Nick Petroni> npetroni@petroni.com,
-<Stephen Magill> stephen.magill@gmail.com,
-<Brian Corcoran> corcorb@gmail.com,
-<Nate Parsons> parsons.nate@gmail.com,
+  Chris Hayden <chayden@gmail.com>,
+  Mikk Furr <furr@cs.umd.edu>,
+  Nick Petroni <npetroni@petroni.com>,
+  Stephen Magill <stephen.magill@gmail.com>,
+  Brian Corcoran <corcorb@gmail.com>,
+  Nate Parsons> <parsons.nate@gmail.com>,
 
 mailing lists:
-pl-status@cs.umd.edu
-pl-reading@cs.umd.edu
-mc2-announce@???
-mc2-*
 
-dc security group?
-mike mentions "ACES students"
+  pl status <pl-status@cs.umd.edu>,
+  pl reading <pl-reading@cs.umd.edu>,
+  cs dept <dept@cs.umd.edu>,
+  cs grads <gradlist.cs.umd.edu>,
+  cs undergrads <ugrad@cs.umd.edu>,
+  mc2 announce <mc2-announce@umiacs.umd.edu>,
+
+  dc security group <dc-anonymity-privacy-security@googlegroups.com>,
+
+ask for announcements to their groups:
+
+  president of umd security club <president@csec.umiacs.umd.edu>,
